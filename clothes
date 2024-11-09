@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "經典純棉T恤",
+    "category": "上衣",
+    "price": 350,
+    "description": "柔軟舒適的純棉T恤，適合日常穿著。",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["白色", "黑色", "灰色"],
+    "inStock": true,
+    "imageUrl": "https://example.com/images/classic-cotton-tshirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "休閒牛仔褲",
+    "category": "下裝",
+    "price": 850,
+    "description": "經典剪裁的牛仔褲，搭配任何風格。",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": ["深藍色", "淺藍色"],
+    "inStock": true,
+    "imageUrl": "https://example.com/images/casual-jeans.jpg"
+  },
+  {
+    "id": 3,
+    "name": "連帽運動外套",
+    "category": "外套",
+    "price": 1200,
+    "description": "保暖輕便的運動外套，適合戶外活動。",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["黑色", "軍綠色", "藍色"],
+    "inStock": false,
+    "imageUrl": "https://example.com/images/hooded-jacket.jpg"
+  },
+  {
+    "id": 4,
+    "name": "棉質休閒短褲",
+    "category": "下裝",
+    "price": 400,
+    "description": "透氣的棉質短褲，夏日穿著最佳選擇。",
+    "sizes": ["S", "M", "L"],
+    "colors": ["卡其色", "灰色", "綠色"],
+    "inStock": true,
+    "imageUrl": "https://example.com/images/cotton-shorts.jpg"
+  },
+  {
+    "id": 5,
+    "name": "運動內搭褲",
+    "category": "下裝",
+    "price": 650,
+    "description": "高彈性的運動內搭褲，適合健身與跑步。",
+    "sizes": ["S", "M", "L"],
+    "colors": ["黑色", "深灰色"],
+    "inStock": true,
+    "imageUrl": "https://example.com/images/sports-leggings.jpg"
+  }
+]
